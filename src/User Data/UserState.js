@@ -7,10 +7,6 @@ const UserState = (props) => {
     country: "Pakistan",
   };
 
-  const ProductDetail = {
-
-  };
-
   return(
     <>
         <UserContext.Provider value={UserDetail}>
